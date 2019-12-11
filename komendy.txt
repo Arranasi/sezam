@@ -1,0 +1,18 @@
+cd [scie¿ka]
+pwd #print path
+vim # edytor
+shift + INSERT #insert
+
+==========================================================
+git init # START, powstanie katalog .git
+ls -la #lista ukrytych
+git status
+git add --help #hlep
+git commit -m ""
+.gitignore #plik z nazwami plikow ignorowowanych przez gita
+git log --oneline #logi
+git log #kazdy log
+git add . ; git commit -m "Update"
+
+git fetch origin
+git push --force origin master
